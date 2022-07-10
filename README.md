@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gennadii Plahonin (@NejdanX)
-- 👀 I’m interested in machine learning (I'm newbie) and backend. 
+- 👀 I’m interested in machine learning (I'm newbie), backend (I'm learning django framework now) and desktop applications. 
 - 📫 How to reach me? You can e-mail me here: plahonin99@mail.ru 
 
 <!---
